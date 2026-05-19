@@ -26,6 +26,7 @@ Execute the program using runserver command.
 ## PROGRAM
 '''
 <html>
+    
     <head>
         <title>slot Timetable</title>
     </head>
